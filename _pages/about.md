@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.png
   address: >
     <p></p>
     <p></p>
