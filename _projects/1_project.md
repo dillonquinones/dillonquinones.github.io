@@ -2,7 +2,7 @@
 layout: page
 title: Python
 description: Projects written in the Python language
-img: python.jpg
+img: assets/img/python.jpg
 importance: 1
 category: programming
 ---
