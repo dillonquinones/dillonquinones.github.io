@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Python
+description: Projects written in the Python language
+img: python.jpg
 importance: 1
-category: work
+category: programming
 ---
 
 Every project has a beautiful feature showcase page.
