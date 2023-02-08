@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: rust
+description: Projects written in Rust
+img: assets/img/rust.jpg
 importance: 2
-category: work
+category: programming
 ---
 
 Every project has a beautiful feature showcase page.
